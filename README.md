@@ -1,4 +1,4 @@
-# Statistics: theory, examples and exercises (with Python and R)
+# Statistics: theory, examples and exercises 
 
 ## Table of contents
 
