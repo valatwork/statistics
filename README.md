@@ -14,3 +14,7 @@
 [2.3 - Midrange](004-midrange.ipynb)
 
 [2.4 - Mode](005-mode.ipynb)
+
+[2.5 - Skewness](006-skewness.ipynb)
+
+[2.6 - Kurtosis](007-kurtosis.ipynb)
