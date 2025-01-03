@@ -18,3 +18,15 @@
 [2.5 - Skewness](006-skewness.ipynb)
 
 [2.6 - Kurtosis](007-kurtosis.ipynb)
+
+#### Measures of Dispersion
+[2.6 - Measures of Dispersion - Intro](008-measures-of-dispersion.ipynb)
+
+[2.7 - Sample vs Population](009-sample-vs-population.ipynb)
+
+[2.8 - Range](010-range.ipynb)
+
+[2.9 - Variance](011-variance.ipynb)
+
+[2.10 - Standard Deviation](012-standard-deviation.ipynb)
+
