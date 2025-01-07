@@ -33,6 +33,9 @@
 
 [2.3.6 - Scaling and shifting](013-scaling-and-shifting.ipynb)
 
-### 3 - Inferential Statistics
-#### 3.1 - Distribution
-[3.1.1 - What is a distribution?](014-probability-intro.ipynb)
+### 3 - Probability
+[3.1 - Introduction to Probability](014-probability-intro.ipynb)
+
+[3.2 - Set Operations](015-set-operations.ipynb)
+
+[3.3 - (Some) Rules of Probability](016-probability-rules.ipynb)
