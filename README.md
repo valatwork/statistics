@@ -31,3 +31,8 @@
 
 [2.3.5 - Standard Deviation](012-standard-deviation.ipynb)
 
+[2.3.6 - Scaling and shifting](013-scaling-and-shifting.ipynb)
+
+### 3 - Inferential Statistics
+#### 3.1 - Distribution
+[3.1.1 - What is a distribution?](014-probability-intro.ipynb)
