@@ -39,3 +39,39 @@
 [3.2 - Set Operations](015-set-operations.ipynb)
 
 [3.3 - (Some) Rules of Probability](016-probability-rules.ipynb)
+
+[3.4 - Combinatorics](017-combinatorics.ipynb)
+
+[3.5 - Probability Exercises](018-probability-exercises.ipynb)
+
+### 4 - Probability Distributions
+
+[4.1 - Introduction to Probability Distributions](019-distributions-intro.ipynb)
+
+[4.2 - Covariance](020-covariance.ipynb)
+
+[4.3 - Correlation](021-correlation.ipynb)
+
+[4.4 - Probability Mass Function and Probability Density Function](022-pmf-pdf.ipynb)
+
+[4.5 - Expected Value](023-exepcted-value.ipynb)
+
+[4.6 - Marginal Probability](024-marginal-probability.ipynb)
+
+[4.7 - Uniform Distribution](025-uniform-distribution.ipynb)
+
+[4.8 - Normal Distribution](026-normal-distribution.ipynb)
+
+[4.9 - Central Limit Theorem](027-central-limit-theorem.ipynb)
+
+[4.10 - Exponential and Laplace Distributions](028-exponential-laplace-distributions.ipynb)
+
+[4.11 - Bernoulli, Binomial, Multinomial Distributions](029-bernoulli-binomial-multinomial.ipynb)
+
+[4.12 - Poisson Distribution](030-poisson-distribution.ipynb)
+
+### Appendices
+
+[Python Referecens](999-appendix-python-reference.ipynb)
+
+### Resources
