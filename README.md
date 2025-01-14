@@ -72,6 +72,5 @@
 
 ### Appendices
 
-[Python Referecens](999-appendix-python-reference.ipynb)
-
-### Resources
+[Appendix A - Sources](999-A-sources.ipynb)
+[Appendix X - Python Reference](999-X-python-reference.ipynb)
