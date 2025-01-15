@@ -149,6 +149,26 @@
 [6.2.3 - DBSCAN](/project/063-dbscan.ipynb)
 
 
+### Inferential Statistics
+
+### 5.1 Introduction
+
+[5.1.1 - Entropy](031-entropy.ipynb)
+
+[5.1.2 - Statistics and Machine Learning](032-statistics-and-ML.ipynb)
+
+### 5.2 Hypothesis Testing
+
+[5.2.1 - Hypothesis Testing](033-hypothesis-testing.ipynb)
+
+[5.2.2 - Z-Score](034-z-score.ipynb)
+
+[5.2.3 - P-Value](035-p-value.ipynb)
+
+[5.2.4 - Single Sample T-Test](036-single-sample-t-test.ipynb)
+
+
+
 ### Appendices
 
 [Appendix A - Sources](project/999-A-sources.md)
