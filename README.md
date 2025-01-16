@@ -50,7 +50,7 @@
 
 [4.2 - Covariance](020-covariance.ipynb)
 
-[4.3 - Correlation](021-correlation.ipynb)
+[4.3 - Correlation](021-correlation-intro.ipynb)
 
 [4.4 - Probability Mass Function and Probability Density Function](022-pmf-pdf.ipynb)
 
@@ -70,15 +70,15 @@
 
 [4.12 - Poisson Distribution](030-poisson-distribution.ipynb)
 
-### Inferential Statistics
+### 5 - Inferential Statistics
 
-### 5.1 Introduction
+#### 5.1 Introduction
 
 [5.1.1 - Entropy](031-entropy.ipynb)
 
 [5.1.2 - Statistics and Machine Learning](032-statistics-and-ML.ipynb)
 
-### 5.2 Hypothesis Testing
+#### 5.2 Hypothesis Testing
 
 [5.2.1 - Hypothesis Testing](033-hypothesis-testing.ipynb)
 
@@ -92,9 +92,17 @@
 
 [5.2.6 - Paired t-tests](038-paired-t-tests.ipynb)
 
-[5.2.7 - Confidence Intervales](039-confidence-intervals.ipynb)
+[5.2.7 - Confidence Intervals](039-confidence-intervals.ipynb)
 
 [5.2.8 - ANOVA](040-anova.ipynb)
+
+[5.2.9 - Correlation (expanded): Pearson's](041-correlation-2-pearson.ipynb)
+
+#### 5.3 - Regression
+
+[5.3.1 - Independent vs Dependent variables](042-independent-vs-dependent-variables.ipynb)
+
+[5.3.2 - Linear Regression](043-linear-regression.ipynb)
 
 ### Appendices
 
