@@ -86,11 +86,18 @@
 
 [5.2.3 - P-Value](035-p-value.ipynb)
 
-[5.2.4 - Single Sample T-Test](036-single-sample-t-test.ipynb)
+[5.2.4 - Single Sample t-tests](036-single-sample-t-test.ipynb)
 
+[5.2.5 - Independent t-tests](037-independent-t-tests.ipynb)
 
+[5.2.6 - Paired t-tests](038-paired-t-tests.ipynb)
+
+[5.2.7 - Confidence Intervales](039-confidence-intervals.ipynb)
+
+[5.2.8 - ANOVA](040-anova.ipynb)
 
 ### Appendices
 
 [Appendix A - Sources](999-A-sources.ipynb)
+
 [Appendix X - Python Reference](999-X-python-reference.ipynb)
