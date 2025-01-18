@@ -104,8 +104,14 @@
 
 [5.3.2 - Linear Regression](043-linear-regression.ipynb)
 
+[5.3.3 - Multiple Linear Regression](044-multiple-linear-regression.ipynb)
+
+
+
 ### Appendices
 
 [Appendix A - Sources](999-A-sources.ipynb)
 
 [Appendix X - Python Reference](999-X-python-reference.ipynb)
+
+[Appendix Z - Variable Types Examples](999-Z-variable-types.ipynb)
