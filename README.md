@@ -102,10 +102,11 @@
 
 [5.3.1 - Independent vs Dependent variables](042-independent-vs-dependent-variables.ipynb)
 
-[5.3.2 - Linear Regression](043-linear-regression.ipynb)
+[5.3.2 - Data Preprocessing](043-data-preprocessing.ipynb)
 
-[5.3.3 - Multiple Linear Regression](044-multiple-linear-regression.ipynb)
+[5.3.3 - Linear Regression](044-linear-regression.ipynb)
 
+[5.3.4 - Linear Regression - Ordinary Least Squares (OLS)](45-ordinary-least-squares.ipynb)
 
 
 ### Appendices
