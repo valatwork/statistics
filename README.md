@@ -177,4 +177,6 @@
 
 [Appendix Y - Subset Selection Theory](999-Y-subset-selection.ipynb)
 
+[Appendix Y - Subset Selection Theory](999-Y-subset-selection.ipynb)
+
 [Appendix Z - Variable Types Examples](999-Z-variable-types.ipynb)
