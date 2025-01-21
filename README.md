@@ -115,4 +115,6 @@
 
 [Appendix X - Python Reference](999-X-python-reference.ipynb)
 
+[Appendix Y - Subset Selection Theory](999-Y-subset-selection.ipynb)
+
 [Appendix Z - Variable Types Examples](999-Z-variable-types.ipynb)
