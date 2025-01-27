@@ -102,19 +102,19 @@
 
 [5.3.1 - Independent vs Dependent variables](/project/042-independent-vs-dependent-variables.ipynb)
 
-[5.3.2 - Data Preprocessing](/project/043-data-preprocessing.ipynb)
+[5.3.2 - Data Preprocessing](/project/048-feature-engineering-data-preparation.ipynb)
 
-[5.3.3 - Linear Regression](/project/044-linear-regression.ipynb)
+[5.3.3 - Linear Regression](/project/043-linear-regression.ipynb)
 
-[5.3.4 - Ordinary Least Squares (OLS)](/project/045-ordinary-least-squares.ipynb)
+[5.3.4 - Ordinary Least Squares (OLS)](/project/044-ordinary-least-squares.ipynb)
 
-[5.4.5 - Multiple Linear Regression](/project/046-multiple-linear-regression.ipynb)
+[5.4.5 - Multiple Linear Regression](/project/045-multiple-linear-regression.ipynb)
 
 [5.3.6 - Polynomial Regression](/project/047-polynomial-regression.ipnyb)
 
-[5.3.7 - Support Vector Regression (SVR)](/project/048-support-vector-regression.ipynb)
+[5.3.7 - Support Vector Regression (SVR)](/project/053-support-vector-regression.ipynb)
 
-[5.3.8 - Decision Trees](/project/049-decision-trees.ipynb)
+[5.3.8 - Decision Trees](/project/054-decision-trees.ipynb)
 
 ### Appendices
 
