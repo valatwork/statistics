@@ -102,19 +102,29 @@
 
 [5.3.1 - Independent vs Dependent variables](/project/042-independent-vs-dependent-variables.ipynb)
 
-[5.3.2 - Data Preprocessing](/project/048-feature-engineering-data-preparation.ipynb)
+[5.3.2 - Linear Regression](/project/043-linear-regression.ipynb)
 
-[5.3.3 - Linear Regression](/project/043-linear-regression.ipynb)
+[5.3.3 - Ordinary Least Squares (OLS)](/project/044-ordinary-least-squares.ipynb)
 
-[5.3.4 - Ordinary Least Squares (OLS)](/project/044-ordinary-least-squares.ipynb)
+[5.4.4 - Multiple Linear Regression](/project/045-multiple-linear-regression.ipynb)
 
-[5.4.5 - Multiple Linear Regression](/project/045-multiple-linear-regression.ipynb)
+[5.4.5 - Cost Function, Gradient Descent, Residuals](/project/046-cost-functions-gradient-descent-residuals.ipynb)
 
-[5.3.6 - Polynomial Regression](/project/047-polynomial-regression.ipnyb)
+[5.4.6 - Polynomial Regression](/project/047-polynomial-regression.ipynb)
 
-[5.3.7 - Support Vector Regression (SVR)](/project/053-support-vector-regression.ipynb)
+[5.4.7 - Regularization, Feature Scaling, Cross Validation](/project/048-regularization-feature-scaling-cross-validation.ipynb)
 
-[5.3.8 - Decision Trees](/project/054-decision-trees.ipynb)
+[5.4.8 - Ridge Regression]
+
+[5.4.9 - Lasso Regression]
+
+[5.4.10 - Logistic Regression](/project/051-logistic-regression.ipynb)
+
+[5.4.11 - K-Nearest Neighbors]
+
+[5.4.12 - Support Vector Regression](/project/053-support-vector-regression.ipynb)
+
+[5.4.13 - Decision Trees](/project/054-decision-trees.ipynb)
 
 ### Appendices
 
