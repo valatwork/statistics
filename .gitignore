@@ -14,5 +14,6 @@
 /.venv/
 /.idea/
 /.idea/codestream.xml
-test.ipynb
-/workbook.ipynb
+ignore/test.ipynb
+/ignore/workbook.ipynb
+/ignore/
