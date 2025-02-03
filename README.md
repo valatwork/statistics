@@ -118,13 +118,13 @@
 
 [5.4.9 - Lasso Regression]
 
-[5.4.10 - Logistic Regression](/project/054-logistic-regression.ipynb)
+[5.4.10 - Logistic Regression](/project/052-logistic-regressionLD.ipynb)
 
 [5.4.11 - K-Nearest Neighbors]
 
-[5.4.12 - Support Vector Regression](/project/055-support-vector-regression.ipynb)
+[5.4.12 - Support Vector Regression](/project/054-support-vector-regression.ipynb)
 
-[5.4.13 - Decision Trees](/project/053-decision-trees.ipynb)
+[5.4.13 - Decision Trees](/project/055-decision-trees.ipynb)
 
 ### Appendices
 
