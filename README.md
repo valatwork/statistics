@@ -122,7 +122,7 @@
 
 [5.4.11 - K-Nearest Neighbors]
 
-[5.4.12 - Support Vector Regression](/project/054-support-vector-regression.ipynb)
+[5.4.12 - Support Vector Regression](/project/054-support-vector-machines.ipynb)
 
 [5.4.13 - Decision Trees](/project/055-decision-trees.ipynb)
 
