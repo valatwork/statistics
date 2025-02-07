@@ -98,7 +98,7 @@
 
 [5.2.9 - Correlation (expanded): Pearson's](/project/041-correlation-2-pearson.ipynb)
 
-#### 5.3 - Regression
+#### 5.3 - Regression and Machine Learning
 
 [5.3.1 - Independent vs Dependent variables](/project/042-independent-vs-dependent-variables.ipynb)
 
@@ -114,17 +114,18 @@
 
 [5.4.7 - Regularization, Feature Scaling, Cross Validation](/project/048-regularization-feature-scaling-cross-validation.ipynb)
 
-[5.4.8 - Ridge Regression]
+[5.4.8 - Ridge Regression, Lasso Regression, Elastic Net](/project/049-ridge-lasso-elastic-net.ipynb)
 
-[5.4.9 - Lasso Regression]
+[5.4.9 - Feature Engineering](/project/050-feature-engineering.ipynb)
 
-[5.4.10 - Logistic Regression](/project/052-logistic-regressionLD.ipynb)
+[5.4.10 - Cross Validation and Grid Search](/project/051-cross-validation-grid-search.ipynb)
 
-[5.4.11 - K-Nearest Neighbors]
+[5.4.11 - Logistic Regression](/project/052-logistic-regression.ipynb)
 
-[5.4.12 - Support Vector Regression](/project/054-support-vector-machines.ipynb)
+[5.4.11 - k-Nearest Neighbors (kNN)](/project/053-k-nearest-neighbors.ipynb)
 
-[5.4.13 - Decision Trees](/project/055-decision-trees.ipynb)
+[5.4.11 - Support Vector Machines (SVM) and Support Vector Regression (SVR)](/project/054-support-vector-machines.ipynb)
+
 
 ### Appendices
 
