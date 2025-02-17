@@ -98,33 +98,44 @@
 
 [5.2.9 - Correlation (expanded): Pearson's](/project/041-correlation-2-pearson.ipynb)
 
-#### 5.3 - Regression and Machine Learning
+### 6 - Regression and Machine Learning
 
-[5.3.1 - Independent vs Dependent variables](/project/042-independent-vs-dependent-variables.ipynb)
+#### 6.1  - Supervised Learning
 
-[5.3.2 - Linear Regression](/project/043-linear-regression.ipynb)
+[6.1.1 - Independent vs Dependent variables](/project/042-independent-vs-dependent-variables.ipynb)
 
-[5.3.3 - Ordinary Least Squares (OLS)](/project/044-ordinary-least-squares.ipynb)
+[6.1.2 - Linear Regression](/project/043-linear-regression.ipynb)
 
-[5.4.4 - Multiple Linear Regression](/project/045-multiple-linear-regression.ipynb)
+[6.1.3 - Ordinary Least Squares (OLS)](/project/044-ordinary-least-squares.ipynb)
 
-[5.4.5 - Cost Function, Gradient Descent, Residuals](/project/046-cost-functions-gradient-descent-residuals.ipynb)
+[6.1.4 - Multiple Linear Regression](/project/045-multiple-linear-regression.ipynb)
 
-[5.4.6 - Polynomial Regression](/project/047-polynomial-regression.ipynb)
+[6.1.5 - Cost Function, Gradient Descent, Residuals](/project/046-cost-functions-gradient-descent-residuals.ipynb)
 
-[5.4.7 - Regularization, Feature Scaling, Cross Validation](/project/048-regularization-feature-scaling-cross-validation.ipynb)
+[6.1.6 - Polynomial Regression](/project/047-polynomial-regression.ipynb)
 
-[5.4.8 - Ridge Regression, Lasso Regression, Elastic Net](/project/049-ridge-lasso-elastic-net.ipynb)
+[6.1.7 - Regularization, Feature Scaling, Cross Validation](/project/048-regularization-feature-scaling-cross-validation.ipynb)
 
-[5.4.9 - Feature Engineering](/project/050-feature-engineering.ipynb)
+[6.1.8 - Ridge Regression, Lasso Regression, Elastic Net](/project/049-ridge-lasso-elastic-net.ipynb)
 
-[5.4.10 - Cross Validation and Grid Search](/project/051-cross-validation-grid-search.ipynb)
+[6.1.9 - Feature Engineering](/project/050-feature-engineering.ipynb)
 
-[5.4.11 - Logistic Regression](/project/052-logistic-regression.ipynb)
+[6.1.10 - Cross Validation and Grid Search](/project/051-cross-validation-grid-search.ipynb)
 
-[5.4.11 - k-Nearest Neighbors (kNN)](/project/053-k-nearest-neighbors.ipynb)
+[6.1.11 - Logistic Regression](/project/052-logistic-regression.ipynb)
 
-[5.4.11 - Support Vector Machines (SVM) and Support Vector Regression (SVR)](/project/054-support-vector-machines.ipynb)
+[6.1.12 - k-Nearest Neighbors (kNN)](/project/053-k-nearest-neighbors.ipynb)
+
+[6.1.13 - Support Vector Machines (SVM) and Support Vector Regression (SVR)](/project/054-support-vector-machines.ipynb)
+
+[6.1.14 - Decision Trees](/project/055-decision-trees.ipynb)
+
+[6.1.15 - Random Forests](/project/056-random-forests.ipynb)
+
+[6.1.16 - Boosting Methods](/project/057-boosting-methods.ipynb)
+
+[6.1.17 - Naive Bayes and Natural Language Processing](/project/058-naive-bayes-and-nlp.ipynb)
+
 
 
 ### Appendices
