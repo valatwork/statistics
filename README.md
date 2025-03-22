@@ -136,6 +136,15 @@
 
 [6.1.17 - Naive Bayes and Natural Language Processing](/project/058-naive-bayes-and-nlp.ipynb)
 
+#### 6.2 - Unsupervised Learning
+
+[6.2.1 - K-means clustering](/project/059-k-means-clustering.ipynb)
+
+[6.2.2 - Hierarchical clustering](/project/060-hierarchical-clustering.ipynb)
+
+[6.2.3 - DBSCAN](/project/061-dbscan.ipynb)
+
+[6.2.4 - Principal Component Analysis (PCA)](/project/062-principal-component-analysis.ipynb)
 
 
 ### Appendices
