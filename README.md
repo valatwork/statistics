@@ -151,7 +151,7 @@
 
 [Appendix A - Sources](project/999-A-sources.ipynb)
 
-[Appendix X - Python Reference](project/999-X-python-reference.ipynb)
+[Appendix X - Python Reference](project/999-X-python-reference.md)
 
 [Appendix Y - Subset Selection Theory](999-Y-subset-selection.ipynb)
 
