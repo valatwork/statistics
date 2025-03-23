@@ -175,7 +175,7 @@
 
 [6.2.3 - DBSCAN](/project/061-dbscan.ipynb)
 
-[6.2.4 - Principal Component Analysis (PCA)](/project/062-principal-component-analysis.ipynb)
+[6.2.4 - Dimensionality Reduction](/project/062-dimensionality-reduction-ipynb)
 
 
 ### Appendices
