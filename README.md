@@ -146,6 +146,8 @@
 
 [6.2.4 - Dimensionality Reduction](/project/062-dimensionality-reduction.ipynb)
 
+[6.2.5 - Principal Component Analysis (PCA)](/project/063-principal-component-analysis.ipynb)
+
 
 ### Appendices
 
