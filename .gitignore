@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# CodeStream ignored files
+/../../statistics\.idea/codestream.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+/.ipynb_checkpoints/
+/.venv/
+/.idea/
+/.idea/codestream.xml
+ignore/test.ipynb
+/ignore/workbook.ipynb
+/ignore/
+/project/data/.ipynb_checkpoints/
+/project/.ipynb_checkpoints/
