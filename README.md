@@ -136,17 +136,17 @@
 
 [6.1.17 - Dimensionality Reduction](/project/058-dimensionality-reduction.ipynb)
 
-[6.1.18 - Naive Bayes and Natural Language Processing](/project/059-naive-bayes-and-nlp.ipynb)
+[6.1.18 - Principal Component Analisys (PCA)](/project/059-principal-component-analysis.ipynb)
+
+[6.1.19 - Naive Bayes and Natural Language Processing](/project/060-naive-bayes-and-nlp.ipynb)
 
 #### 6.2 - Unsupervised Learning
 
-[6.2.1 - K-means clustering](/project/060-k-means-clustering.ipynb)
+[6.2.1 - K-means clustering](/project/061-k-means-clustering.ipynb)
 
-[6.2.2 - Hierarchical clustering](/project/061-hierarchical-clustering.ipynb)
+[6.2.2 - Hierarchical clustering](/project/062-hierarchical-clustering.ipynb)
 
-[6.2.3 - DBSCAN](/project/062-dbscan.ipynb)
-
-[6.2.4 - Principal Component Analysis (PCA)](/project/063-principal-component-analysis.ipynb)
+[6.2.3 - DBSCAN](/project/063-dbscan.ipynb)
 
 
 ### Appendices
