@@ -16,7 +16,7 @@
 ### 2.1 -  Measures of Central Tendency
 [2.1.1 - Mean](/project/002-mean.ipynb)
 
-[2.1.2 - Median](/project/003-median.ipnyb)
+[2.1.2 - Median](/project/003-median.ipynb)
 
 [2.1.3 - Midrange](/project/004-midrange.ipynb)
 
@@ -61,7 +61,7 @@
 
 [4.4 - Probability Mass Function and Probability Density Function](/project/022-pmf-and-pdf.ipynb)
 
-[4.5 - Expected Value](/project/023-exepcted-value.ipynb)
+[4.5 - Expected Value](/project/023-expected-value.ipynb)
 
 [4.6 - Marginal Probability](/project/024-marginal-probability.md)
 
@@ -103,7 +103,7 @@
 
 [5.2.8 - ANOVA](/project/040-anova.ipynb)
 
-[5.2.9 - Correlation (expanded): Pearson's](/project/041-correlation-2-pearson.ipynb)
+[5.2.9 - Correlation (expanded): Pearson's Correlation](/project/041-correlation-2-pearson.ipynb)
 
 ## 6 - Machine Learning
 
@@ -137,27 +137,27 @@
 
 [6.1.2.6 - k-Nearest Neighbors (kNN)](/project/053-k-nearest-neighbors.ipynb)
 
-[6.1.2.7 - Support Vector Machines (SVM) and Support Vector Regression (SVR)](/project/055-support-vector-machines.ipynb)
+[6.1.2.7 - Support Vector Machines (SVM) and Support Vector Regression (SVR)](/project/054-support-vector-machines.ipynb)
 
-[6.1.2.8 - Decision Trees](/project/056-decision-trees.ipynb)
+[6.1.2.8 - Decision Trees](/project/055-decision-trees.ipynb)
 
-[6.1.2.9 - Random Forests](/project/057-random-forests.ipynb)
+[6.1.2.9 - Random Forests](/project/056-random-forests.ipynb)
 
-[6.1.2.10 - Boosting Methods](/project/058-boosting-methods.ipynb)
+[6.1.2.10 - Boosting Methods](/project/057-boosting-methods.ipynb)
 
-[6.1.2.11 - Naive Bayes](/project/059-naive-bayes-and-nlp.ipynb)
+[6.1.2.11 - Naive Bayes and Natural Language Processing](/project/058-naive-bayes-and-nlp.ipynb)
 
 ### 6.2 - Dimensionality Reduction
 
-[6.2.1 - Dimensionality Reduction](/project/060-dimensionality-reduction.ipynb)
+[6.2.1 - Dimensionality Reduction](/project/059-dimensionality-reduction.ipynb)
 
-[6.2.2 - Principal Component Analysis (PCA)](/project/061-principal-component-analysis.ipynb)
+[6.2.2 - Principal Component Analysis (PCA)](/project/060-principal-component-analysis.ipynb)
 
 ### 6.3 - Unsupervised Learning
 
-[6.3.1 - Clustering](/project/060-clustering.ipynb)
+[6.3.1 - k-Means Clustering](/project/061-k-means-clustering.ipynb)
 
-[6.3.2 - k-Means Clustering](/project/062-k-means-clustering.ipynb)
+[6.3.2 - Gaussian Mixtures](/project/062-gaussian-mixtures.ipynb)
 
 [6.3.3 - Hierarchical Clustering](/project/063-hierarchical-clustering.ipynb)
 
@@ -166,10 +166,10 @@
 
 ## Appendices
 
-[Appendix A - Sources](project/999-A-sources.md)
+[Appendix A - Sources](project/999A-sources.md)
 
-[Appendix X - Python Reference](project/999-X-python-reference.md)
+[Appendix X - Python Reference](project/999B-python-reference.md)
 
-[Appendix Y - Subset Selection Theory](999-Y-subset-selection.ipynb)
+[Appendix Y - Subset Selection Theory](999Y-subset-selection-theory.ipynb)
 
-[Appendix Z - Variable Types Examples](999-Z-variable-types.ipynb)
+[Appendix Z - Variable Types Examples](999Z-variable-types.md)
