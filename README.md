@@ -1,4 +1,4 @@
-# Statistics: theory, examples and exercises 
+# Statistics, Probability and Machine Learning
 
 # Table of contents
 
