@@ -141,7 +141,7 @@
 
 [6.1.2.8 - Decision Trees](/project/055-decision-trees.ipynb)
 
-[6.1.2.9 - Random Forests](/project/056-random-forests.ipynb)
+[6.1.2.9 - Random Forests](/project/056-ensemble-learning-random-forests.ipynb)
 
 [6.1.2.10 - Boosting Methods](/project/057-boosting-methods.ipynb)
 
